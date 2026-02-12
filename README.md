@@ -50,6 +50,6 @@ Tech Stack
 
 Candidate
 
-Name: Jitesh
-Role Applied For: Front-End Developer Intern
-Assignment Stage: Stage 2 – Internship Assignment
+Name: Jitesh,
+Role Applied For: Front-End Developer Intern,
+Assignment Stage: Stage 2 – Internship Assignment.
