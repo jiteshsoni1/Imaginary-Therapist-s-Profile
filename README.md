@@ -1,36 +1,55 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Grow My Therapy – Stage 2 Internship Assignment
+This project is a frontend homepage clone and creative redesign completed as part of the Stage 2 Practical Assignment for the Front-End Developer Internship at Grow My Therapy.
 
-## Getting Started
+🔍 Project Overview
+The assignment involved:
 
-First, run the development server:
+Cloning a therapist website homepage layout with high UI accuracy
+Redesigning the site using a new theme, typography, images, and copy
+Writing SEO-optimized content based on an imaginary therapist profile
+Adding a custom section not present in the original design
+Presenting the final result via a video walkthrough
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+🧩 Assignment Breakdown
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+1. Homepage Clone
+   Pixel-accurate recreation of the original layout and structure
+   Fully responsive across desktop, tablet, and mobile
+   Consistent spacing, grid system, and typography
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+2. Creative Redesign
+   New color palette (primary, secondary, accent)
+   New font selection
+   All images replaced
+   All copy rewritten based on Dr. Maya Reynolds’ therapist profile
+   SEO-focused headings and content with location-based keywords
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+3. Custom Section – “Our Office”
+   Newly designed section added to the homepage
+   Highlights the therapist’s physical office space
+   Warm, calm, and trustworthy tone aligned with a therapy practice
+   Uses relevant office images and profile-based copy
 
-## Learn More
+4. Video Walkthrough
+   Client-style demo explaining design and content decisions
+   Desktop and mobile views showcased
+   Non-technical explanation focused on user benefits
 
-To learn more about Next.js, take a look at the following resources:
+Tech Stack
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+   Next.js
+   Tailwind CSS
+   Java Script
+   React.js
+   HTML
+   CSS
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+🚀 Live Demo
+🔗https://imaginary-therapist-s-profile.vercel.app/
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Candidate
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Name: Jitesh
+Role Applied For: Front-End Developer Intern
+Assignment Stage: Stage 2 – Internship Assignment
